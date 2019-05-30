@@ -1,0 +1,9 @@
+﻿body {
+    font: 14px sans-serif;
+    text-align: center;
+}
+.wrapper {
+    width: 100%;
+    padding-left: 40%;
+    padding-right: 40%;
+}

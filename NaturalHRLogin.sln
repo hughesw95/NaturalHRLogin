@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "NaturalHRLogin", "..\..\..\..\..\wamp64\www\test\naturalhr\NaturalHRLogin\NaturalHRLogin\NaturalHRLogin.phpproj", "{227D5643-000E-4F1A-9D4A-508C6E4C15AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{227D5643-000E-4F1A-9D4A-508C6E4C15AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{227D5643-000E-4F1A-9D4A-508C6E4C15AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F5DC1CF-AEB3-4CCC-B365-78A44D9F414E}
+	EndGlobalSection
+EndGlobal
