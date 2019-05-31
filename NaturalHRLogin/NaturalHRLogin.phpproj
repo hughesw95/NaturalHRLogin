@@ -20,7 +20,6 @@
     <Compile Include="config.php" />
     <Compile Include="login.php" />
     <Compile Include="register.php" />
-    <Compile Include="reset-password.php" />
     <Compile Include="logout.php" />
   </ItemGroup>
   <ItemGroup>
